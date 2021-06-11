@@ -1,0 +1,23 @@
+.color1 {
+    background-color: rgb(14, 174, 242);
+    height: 45px;
+    width: 45px;
+}
+
+.color2 {
+    background-color: black;
+    height: 45px;
+    width: 45px;
+}
+
+.color3 {
+    background-color: chartreuse;
+    height: 45px;
+    width: 45px;
+}
+
+.color4 {
+    background-color: darkorange;
+    height: 45px;
+    width: 45px;
+}
